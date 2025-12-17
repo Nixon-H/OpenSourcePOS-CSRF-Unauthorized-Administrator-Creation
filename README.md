@@ -163,12 +163,12 @@ This is the exact payload used to create a rogue Administrator with full permiss
 
 *(Images and Exploit Files are located in the `POC/` directory)*
 
-**Screenshot 1: [The Exploit Execution]()**
+**Screenshot 1: [The Exploit Execution](https://github.com/Nixon-H/OpenSourcePOS-CSRF-Account-Takeover/blob/main/POC/Exploit_Execution.png)**
 
-**Screenshot 2: [The Rogue Account Created]()**
+**Screenshot 2: [The Rogue Account Created](https://github.com/Nixon-H/OpenSourcePOS-CSRF-Account-Takeover/blob/main/POC/Rogue_Account_Created.png)**
 
 **🎥 Video Demonstration:**
-[Click to Watch / Download the PoC Video](https://www.google.com/search?q=POC/csrf_exploit.mp4)
+[Click to Watch / Download the PoC Video](https://github.com/Nixon-H/OpenSourcePOS-CSRF-Account-Takeover/blob/main/POC/CSRF_ADMIN_TAKEOVER_POC.mkv)
 
 ---
 
