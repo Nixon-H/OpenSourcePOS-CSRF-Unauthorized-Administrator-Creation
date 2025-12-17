@@ -1,4 +1,4 @@
-# OpenSourcePOS CSRF: Unauthorized Administrator Creation
+# CVE-2025-68434: CSRF Unauthorized Administrator Creation in OpenSourcePOS
 
 | Metadata | Details |
 | --- | --- |
