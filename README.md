@@ -2,7 +2,7 @@
 
 | Metadata | Details |
 | --- | --- |
-| **CVE ID** | **[CVE-2025-68434](https://www.google.com/search?q=https://cve.mitre.org/cgi-bin/cvename.cgi%3Fname%3DCVE-2025-68434)** |
+| **CVE ID** | **[CVE-2025-68434](https://cve.mitre.org/cgi-bin/cvename.cgi%3Fname%3DCVE-2025-68434)** |
 | **Severity** | **Critical (8.8)** `CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H` |
 | **Vulnerability Type** | Cross-Site Request Forgery (CWE-352) |
 | **Affected Versions** | OpenSourcePOS v3.4.0, v3.4.1 |
